@@ -5,6 +5,7 @@ There is also a theme for Mac it looks like the "Mac Finder".
 Sometimes it takes some time to start so be patient.
 
 JExplorer_Project
+
 - JExplorer (main program)
 
 - JExplorerComponents (some components which may be used in some plugins)
